@@ -44,7 +44,7 @@ li span {
 
 .banner {
   height: 350px;
-  background-image: url("img/banner-bg.jpg");
+  background-image: url("../img/banner-bg.jpg");
   background-position: 0 -50px;
   background-size: cover;
 }
